@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damsjn&label=Profile%20views&color=0e75b6&style=flat" alt="damsjn" /> </p>
 
-- 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/)
+- 🔭 I’m currently working on [Seven](https://learn.byseven.co/) and [MyBatchCooker](http://www.mybatchcooker.com/)
 
 - 📫 How to reach me **damienjouaneau@gmail.com**
 
